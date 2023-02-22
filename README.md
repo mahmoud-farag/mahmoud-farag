@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoud-farag" alt="mahmoud-farag" /></a> </p>
 
-- 🔭 I’m currently working on [kalbonyan_elmarsos](kalbonyan_elmarsos)
+- 🔭 I’m currently working on **Makeitsimple**
 
 - 🌱 I’m currently learning **reactjs/AWS**
 
