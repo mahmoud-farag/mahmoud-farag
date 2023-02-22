@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Makeitsimple**
 
-- 🌱 I’m currently learning **reactjs/AWS**
+- 🌱 I’m currently learning **Anuglar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
