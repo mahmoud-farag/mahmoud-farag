@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Makeitsimple**
 
-- 🌱 I’m currently learning **Anuglar**
+- 🌱 I’m currently learning **Java&&SpringBoot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
