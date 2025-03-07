@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Makeitsimple**
 
-- 🌱 I’m currently learning **Java&&SpringBoot**
+- 🌱 I’m currently learning **AWS&Serverless**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
