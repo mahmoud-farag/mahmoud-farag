@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Farag</h1>
-<h3 align="center">A passionate MERN full-stack developer from Egypt</h3>
+<h3 align="center">Software Engineer | ExpressJS | NestJS | Angular | ReactJS | backend-Heavy from Egypt</h3>
 <img src='https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png' width='250px' height='250px' alt='img'/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoud-farag&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoud-farag" /> </p>
