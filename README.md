@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Farag</h1>
-<h3 align="center">Software Engineer | Node.js | NestJS | Angular | MongoDB | AWS</h3>
+<h3 align="center">Software Engineer | Node.js | NestJS | ReactJs | Angular | MongoDB | MySQl | AWS</h3>
 
 <p align="center">
   <img src='https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png' width='250px' height='250px' alt='Mahmoud Farag Profile'/>
