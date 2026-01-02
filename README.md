@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Farag</h1>
 <h3 align="center">
-Backend-Focused Software Engineer | Node.js (NestJS, Express) | AWS | Angular & React
+Software Engineer(Full stack) | Node.js (NestJS, Express) | AWS | Angular & React
 </h3>
 
 <p align="center">
