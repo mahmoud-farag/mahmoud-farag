@@ -1,62 +1,130 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Farag</h1>
-<h3 align="center">Software Engineer | Node.js | NestJS | ReactJs | Angular | MongoDB | MySQl | AWS</h3>
+<h3 align="center">
+Backend-Focused Software Engineer | Node.js (NestJS, Express) | AWS | Angular & React
+</h3>
 
 <p align="center">
-  <img src='https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png' width='250px' height='250px' alt='Mahmoud Farag Profile'/>
+  <img src='https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png'
+       width='250px'
+       height='250px'
+       alt='Mahmoud Farag Profile'/>
 </p>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=mahmoud-farag&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoud-farag" /> 
-</p>
-
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoud-farag" alt="mahmoud-farag" /></a> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahmoud-farag&label=Profile%20views&color=0e75b6&style=flat"
+       alt="mahmoud-farag" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm a **Software Engineer** from Egypt, passionate about building scalable, efficient, and secure web applications. My expertise lies in **Backend Development** using **Node.js** and **NestJS**, alongside full-stack experience with **Angular**. 
+I'm a **Backend-focused Software Engineer** with **4+ years of experience** building, maintaining, and scaling **production web applications**.
 
-I enjoy designing robust APIs, optimizing system performance for **multi-tenant SaaS products**, and solving complex technical challenges through clean, maintainable code.
+My core expertise is in the **Node.js ecosystem** (NestJS, Express, TypeScript), with strong experience designing **clean, scalable REST APIs**, working with **MongoDB & MySQL**, and contributing to **cloud-based systems on AWS**.
 
-- 🔭 I’m currently working as a **Software Engineer** at **[Make it Simple](https://makeitsimple.co.uk/)**, developing scalable modules for a multi-tenant payroll SaaS.
-- 🌱 I’m currently diving deep into **Microservices Architecture** and **AWS Cloud Environments**.
-- 👯 I’m looking to collaborate on open-source **Node.js** or **NestJS** projects.
+I’ve worked extensively on **real-world SaaS systems**, including **multi-tenant payroll platforms**, where I focused on system reliability, maintainability, and performance.  
+I also have hands-on **full-stack experience**, building and maintaining UI features using **Angular** and **React** when needed.
 
----
-
-### 🛠 Languages and Tools
-
-<p align="left"> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-</p>
+- 🔭 Previously worked as a **Software Engineer** at **[Make It Simple](https://makeitsimple.co.uk/)** (UK, Remote), contributing to a large-scale payroll SaaS.
+- 🌱 Currently deepening my understanding of **backend architecture, AWS, and microservices-oriented systems**.
+- 👯 Open to collaborating on **Node.js / NestJS** projects and backend-focused open-source contributions.
+- 🚀 Open to **Backend** or **Backend-leaning Full Stack** roles (Remote).
 
 ---
 
-<h3 align="left">📫 Connect with me:</h3>
+### 🛠 Tech Stack
+
+**Backend**
+- Node.js, NestJS, Express.js
+- TypeScript, JavaScript
+- REST APIs
+
+**Databases**
+- MongoDB
+- MySQL
+
+**Frontend**
+- Angular
+- React.js
+- HTML, CSS, Sass
+
+**Cloud & Tools**
+- AWS (Lambda, S3)
+- Git & GitHub
+
 <p align="left">
-<a href="https://www.linkedin.com/in/mahmoud-farag-4346a4162/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mahmoud Farag LinkedIn" height="30" width="40" /></a>
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+         width="40" height="40"/>
+  </a>
+  <a href="https://nestjs.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
+         width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+         width="40" height="40"/>
+  </a>
+  <a href="https://angular.io" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"
+         width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+         width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+         width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+         width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+         width="40" height="40"/>
+  </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoud-farag&show_icons=true&locale=en&layout=compact" alt="mahmoud-farag" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoud-farag&show_icons=true&locale=en" alt="mahmoud-farag" /></p>
+### 📫 Connect with Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud-farag&" alt="mahmoud-farag" /></p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/mahmoud-farag-4346a4162/" target="_blank">
+    <img align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         height="30"
+         width="40" />
+  </a>
+</p>
+
+### 🌐 Portfolio
+
+<p align="left">
+  <a href="https://farag.vercel.app" target="_blank">
+    🚀 View My Portfolio
+  </a>
+</p>
+
+
+
+<p>
+  <img align="left"
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoud-farag&layout=compact"
+       alt="mahmoud-farag" />
+</p>
+
+<p>&nbsp;
+  <img align="center"
+       src="https://github-readme-stats.vercel.app/api?username=mahmoud-farag&show_icons=true"
+       alt="mahmoud-farag" />
+</p>
+
+<p>
+  <img align="center"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud-farag"
+       alt="mahmoud-farag" />
+</p>
