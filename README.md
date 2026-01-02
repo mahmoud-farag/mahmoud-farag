@@ -112,18 +112,6 @@ I also have hands-on **full-stack experience**, building and maintaining UI feat
 
 
 <p>
-  <img align="left"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoud-farag&layout=compact"
-       alt="mahmoud-farag" />
-</p>
-
-<p>&nbsp;
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=mahmoud-farag&show_icons=true"
-       alt="mahmoud-farag" />
-</p>
-
-<p>
   <img align="center"
        src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud-farag"
        alt="mahmoud-farag" />
