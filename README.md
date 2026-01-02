@@ -19,7 +19,7 @@ Software Engineer(Full stack) | Node.js (NestJS, Express) | AWS | Angular & Reac
 
 ### 👨‍💻 About Me
 
-I'm a **Backend-focused Software Engineer** with **4+ years of experience** building, maintaining, and scaling **production web applications**.
+I'm a **Software Engineer ( Full Stack)** with **4 years of experience** building, maintaining, and scaling **production web applications**.
 
 My core expertise is in the **Node.js ecosystem** (NestJS, Express, TypeScript), with strong experience designing **clean, scalable REST APIs**, working with **MongoDB & MySQL**, and contributing to **cloud-based systems on AWS**.
 
