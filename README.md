@@ -26,10 +26,10 @@ My core expertise is in the **Node.js ecosystem** (NestJS, Express, TypeScript),
 I’ve worked extensively on **real-world SaaS systems**, including **multi-tenant payroll platforms**, where I focused on system reliability, maintainability, and performance.  
 I also have hands-on **full-stack experience**, building and maintaining UI features using **Angular** and **React** when needed.
 
-- 🔭 Previously worked as a **Software Engineer** at **[Make It Simple](https://makeitsimple.co.uk/)** (UK, Remote), contributing to a large-scale payroll SaaS.
-- 🌱 Currently deepening my understanding of **backend architecture, AWS, and microservices-oriented systems**.
-- 👯 Open to collaborating on **Node.js / NestJS** projects and backend-focused open-source contributions.
-- 🚀 Open to **Backend** or **Backend-leaning Full Stack** roles (Remote).
+- Currently Working as a **Software Engineer** on **[Tahaluf Al Emarat Technical Solutions](https://tahaluf.ai/)** .
+-  Previously worked as a **Software Engineer** at **[Make It Simple](https://makeitsimple.co.uk/)** (UK, Remote), contributing to a large-scale payroll SaaS.
+- Open to collaborating on **Node.js / NestJS** projects and backend-focused open-source contributions.
+-  Open to **Backend** or **Backend-leaning Full Stack** roles (Remote).
 
 ---
 
