@@ -29,8 +29,7 @@ I also have hands-on **full-stack experience**, building and maintaining UI feat
 - Currently Working as a **Software Engineer** on **[Tahaluf Al Emarat Technical Solutions](https://tahaluf.ai/)** .
 -  Previously worked as a **Software Engineer** at **[Make It Simple](https://makeitsimple.co.uk/)** (UK, Remote), contributing to a large-scale payroll SaaS.
 - Open to collaborating on **Node.js / NestJS** projects and backend-focused open-source contributions.
--  Open to **Backend** or **Backend-leaning Full Stack** roles (Remote).
-
+  
 ---
 
 ### 🛠 Tech Stack
